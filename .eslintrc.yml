@@ -1,0 +1,13 @@
+---
+extends: defaults
+parser: babel-eslint
+env:
+  node: true  
+
+globals:   
+
+ecmaFeatures:
+  generators: true
+  experimentalObjectRestSpread: true
+ 
+   
